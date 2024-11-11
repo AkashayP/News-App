@@ -27,7 +27,7 @@ const Newsapp = () => {
     <div>
         <nav>
             <div>
-                <h1>Trendy News</h1>
+                <h1>Trendy Newss</h1>
             </div>
             <ul style={{display:"flex", gap:"11px"}}>
                 <a style={{fontWeight:600, fontSize:"17px"}}>All News</a>
